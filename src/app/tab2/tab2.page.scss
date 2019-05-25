@@ -1,0 +1,56 @@
+.app-header{
+    --background: #1d83b3;
+    }
+.left {
+    float:left;
+}
+ion-icon {
+    font-size: 3em; //Preferred size here
+}
+ion-row {
+    padding:1px;
+}
+ion-col {
+    padding:1px;
+}
+.message {
+    height:1em;
+}
+.number {
+    text-align:center;
+    font-size: 1.1em;
+
+}
+.info {
+    font-size: .6em;
+    text-align:center;
+}
+.small-icon {
+    font-size: 1em; //Preferred size here
+}
+.center {
+    text-align:center;
+    display:block;
+    width:100%;
+}
+.large-icon {
+    font-size:2em;
+}
+.round {
+    border-radius:50%;
+    width:6em;
+    height:6em;
+}
+.close-button {
+    font-size:1em;
+    position:absolute;
+    left:85%;
+    top:5%;
+}
+.tile {
+    border: 1px solid #ccc;
+    padding-top:2em;
+}
+.padding-bottom {
+    padding-bottom: 2em;
+}

@@ -1,0 +1,113 @@
+
+.app-header{
+    --background: #1d83b3;
+    }
+.left {
+    float:left;
+}
+ion-icon {
+    font-size: 3em; //Preferred size here
+}
+ion-row {
+    padding:1px;
+}
+ion-col {
+    padding:1px;
+}
+.message {
+    height:1em;
+}
+.number {
+    text-align:center;
+    font-size: 1.1em;
+}
+.info {
+    font-size: .6em;
+    text-align:center;
+}
+.small-icon {
+    font-size: 1em; //Preferred size here
+}
+.center {
+    text-align:center;
+    display:block;
+    width:100%;
+}
+.large-icon {
+    font-size:2em;
+}
+.round {
+    border-radius:50%;
+    --background: #666;
+}
+.close-button {
+    font-size:1em;
+    position:absolute;
+    left:85%;
+    top:5%;
+}
+.tile {
+    border: 1px solid #ccc;
+    padding-top:2em;
+}
+.padding-bottom {
+    padding-bottom: 2em;
+}
+.blue {
+    background-color:#57c9c9;
+    height:4em;
+}
+.blue-camera {
+    color:#1d83b3;
+    border:2px solid #357474;
+    border-radius:50%;
+    font-size:3em;
+    padding:.5em;
+    position:absolute;
+    left:35%;
+    top: -1em;
+    background-color:#fff;
+}
+.blue-edit {
+    color:#1d83b3;
+    font-size:2em;
+    position:absolute;
+    left:90%;
+    top:5%;
+}
+.blue-edit-small {
+    position:absolute;
+    left:95%;
+    font-size:1em;
+    color:#1d83b3;
+}
+.large-font {
+    font-size:1.5em;
+}
+.small-font {
+    font-size:.7em;
+}
+.strong-font {
+    font-weight: bold;
+}
+.height-50 {
+    height:50%;
+}
+.see-all {
+    color:#1d83b3;
+    font-weight: bold;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding-top:.5em;
+    padding-bottom:.5em;
+}
+.gray-line {
+    height:.5em;
+    background-color: #ddd;
+}
+.padding-top {
+    padding-top: 5px;
+}
+.blue-linked {
+    color:#1d83b3;
+}
